@@ -1,6 +1,10 @@
 READ ME:
 
-Submission for CW2 - Programming for Data Science - 21COP504 - B******
+Breif: 
+CW1 - Clean and store marks for each student in a SQL database (1.5 randomise some grades)
+CW2 - Create meaningful insights utilising GUI for a tutor to analyse student grades
+
+Submission for CW1 and CW2 - Programming for Data Science - 21COP504 - B******
 
 Student Monitoring System:
 
