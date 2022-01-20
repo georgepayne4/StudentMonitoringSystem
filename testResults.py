@@ -1,5 +1,5 @@
 """
-@author: B810449
+@author: George Payne
 Created on Thu Jan  6 15:08:27 2022
 """
 # Import libraries
@@ -59,9 +59,3 @@ def testResults(tables, student_id, database, root):
         # Call plot functionality within tkinter window
         outputGraph('testResults', x, y, x2, y2, student_id, root, 'all_')
         
-
-
-
-
-
-
