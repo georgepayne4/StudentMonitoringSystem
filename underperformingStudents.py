@@ -1,5 +1,5 @@
 """
-@author: B810449
+@author: George Payne
 Created on Mon Jan 10 18:09:07 2022
 """
 # Import libraries
